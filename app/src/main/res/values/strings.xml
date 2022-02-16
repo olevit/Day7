@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Day 7</string>
+    <string name="button1">Перша кнопка</string>
+    <string name="button2">Друга кнопка</string>
+    <string name="button3">Третя кнопка</string>
+    <string name="button4">Четверта кнопка</string>
+    <string name="button5">П\'ята кнопка</string>
+    <string name="button6">Шоста кнопка</string>
+</resources>
